@@ -142,7 +142,7 @@ html{
     padding: 1.5rem;
     position: relative;
     box-sizing: border-box;
-    overflow: hidden;
+    /* overflow: hidden; */
     font-size: 1.3rem;
 }
 .overlay-inner .close{

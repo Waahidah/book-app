@@ -1,4 +1,6 @@
-import react from 'react';
+
+
+
 const Modal=({show,item,onClose})=>{
     if(!show)
     {
